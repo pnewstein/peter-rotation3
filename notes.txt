@@ -1,0 +1,57 @@
+exp-2022-05-24
+Emily did the disection. if oced on cotex neurons
+The new capilary tubes made less consistant pippettes but seemed to more or less work
+
+Cell1 not very good. A cortex pyrimdal cell
+78 pF
+35 mOHM resistance
+pippette 5mOHM
+RA = 12.7
+practiced pulling out
+got 1.5 Gohm
+cell2 mHb!!!!
+Cm 22pF
+rM = 200
+Ra 41
+Ran tons of fi curves on the cell
+Pulled out. Got a ouside out resistance of 1.3Gohm not bad
+Cut goes on the RIGT cortex up
+
+
+Cell3 Much worse resistnace = 50mOHM
+Acsess resistance is 16Mohm
+Cm 63
+RMP = 38 I recorded at for 20
+I put both cells into PFA overnight. I moved to PBS the next day at 2pm
+Cut goes on the opposite side
+
+
+exp-2022-05-27
+Using the TH>channelrhodopsin2 mice
+cage 323
+
+born 3/24 22
+
+got a weird cell; acsess resistance 1mOHM 
+imput resistance 800mOHM
+14pFarad capacidence
+rmp -30
+injected current to keep at -70 decided to pull out when input resistance droped to 200MOHM
+There was something connected to my tip after I pulled out. The thing connected to the tip didnt flouresce
+i pealed off a corner of the rigt cortex
+
+exp-2022-05-31
+emily disected the animal which was a female mouse born 3/29/2022
+genotype TH x ChR2
+cage number 323
+I got 6 slices containing habenula
+Moved to acsf at 5:20
+I finaly patched a habenula cell at 8:30pm
+got a 2 gohm seal. probably th negitive
+500mOHM
+cm =12
+ra = 40 I will try to improve ra
+drugs at 35
+lost my cell at 36
+got to 8 gohm in pullout
+could not get another cell. put though std biocyten protocol
