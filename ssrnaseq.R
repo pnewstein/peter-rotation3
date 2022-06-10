@@ -1,4 +1,5 @@
 # Trying to analyze published rnaseq data from github.com/stuberlab/Hashikawa-Hashikawa-2020
+# This did not work because I was unable to find all of the necessary files
 library(dplyr)
 library(magrittr)
 library("xlsx")
