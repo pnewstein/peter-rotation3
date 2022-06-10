@@ -8,11 +8,11 @@ from scipy.spatial.transform import Rotation as R
 
 import matplotlib.pyplot as plt
 import navis
+
 PATH = Path("/storage/archive/sylwestrak/Peter-Zeiss/Peter-Zeiss/20220510_m1583-6-1-000.swc")
 J_PATH = Path("/storage/archive/sylwestrak/j/")
 VIRUS_PATH = Path("/storage/archive/sylwestrak/raw_confocal/20220525/20220525_m1583-2.czi-000.swc")
 PVT_PATH = Path("/home/petern/Documents/rtalk3/f/f-000.swc")
-
 
 def preprocess_swc(path: Path):
     """ensures that the swc at a path is compatible with navis"""

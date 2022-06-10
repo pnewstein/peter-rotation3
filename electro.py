@@ -1,5 +1,5 @@
 """
-Just makes some example figures for my presintation
+Analyzes physiology data and makes figures
 """
 from pathlib import Path
 from enum import Enum, auto

@@ -1,5 +1,6 @@
 # Trying to analyze published rnaseq data from github.com/stuberlab/Hashikawa-Hashikawa-2020
 # This did not work because I was unable to find all of the necessary files
+
 library(dplyr)
 library(magrittr)
 library("xlsx")
@@ -74,3 +75,5 @@ results=Main_Doublet_Decon(rawDataFile=newFiles$newExpressionFile,
                            only50=TRUE,
                            min_uniq=4)
 
+# The code seemed to work fine up to this point, but I was unable to find the files for 
+# the mHb analysis. Also, I could not find any references to tyrosine hydroxylase in the data

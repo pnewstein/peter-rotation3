@@ -1,4 +1,4 @@
-"adaped"
+"adapted from https://gist.github.com/rth/5772583"
 from matplotlib.offsetbox import AnchoredOffsetbox
 from matplotlib.patches import Rectangle
 from matplotlib.offsetbox import AuxTransformBox, VPacker, HPacker, TextArea
